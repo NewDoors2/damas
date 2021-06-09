@@ -13,3 +13,5 @@
 [Tiago Araujo](https://github.com/tiagoarasi)
 
 [Vinicíus Brandão](https://github.com/ViniciusBrandao2)
+
+[Lucas](https://github.com/imLuc4s)
